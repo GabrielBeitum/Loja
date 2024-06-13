@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import Cart from "./ComponentesEspecificos/Cart";
 import Products from "./ComponentesEspecificos/Products";
+import "./ComponentesEspecificos/CSS/App.css";
 
 
 /**
