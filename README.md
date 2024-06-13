@@ -82,4 +82,3 @@ Faça push para a branch (git push origin feature/MinhaFeature)
 
 Abra um Pull Request
 
-crie e configure um html para este texto
