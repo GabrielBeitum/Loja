@@ -46,25 +46,22 @@ git clone https://github.com/GabrielBeitum/Loja.git
 
 Navegue até o diretório do projeto:
 
-Copiar código
 
 cd Loja
+
 
 Instale as dependências:
 
 
-
-Copiar código
-
 npm install
+
+
 
 Inicie o servidor:
 
 
-
-Copiar código
-
 npm start
+
 
 Abra o arquivo index.html no seu navegador da web.
 
